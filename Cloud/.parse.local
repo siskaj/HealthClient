@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "JSTestCore": {
+      "applicationId": "Au5mGSzqxfGoH6asVQumzJ074CNA0UvuokoduG4B"
+    },
+    "_default": {
+      "link": "JSTestCore"
+    }
+  }
+}
